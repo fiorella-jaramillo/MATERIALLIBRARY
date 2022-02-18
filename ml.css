@@ -1,0 +1,51 @@
+body
+{
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background-color:white;   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.TITLE
+{
+ width: 100%;
+ height: 30%;
+
+}
+
+.CONTENT1, .CONTENT3, .CONTENT2, .CONTENT4, .CONTENT5, .CONTENT6
+{
+  height: 200px;
+  margin-left: 200px ;
+  margin-right: 200px ;
+  background-color: transparent;
+ }
+
+
+
+
+  
+    p{
+        font-size: 20px;
+        font-family:Helvetica;
+        margin-top: 0px;
+        width: 200px;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-family: Helvetica;
+      color: black;
+    }
+
+    h2 {
+      font-size: 60px;
+      font-family: Helvetica;
+      color: black;
+    }
+
+
+  
