@@ -9,6 +9,11 @@ body
     background-position: center;
 }
 
+@font-face { 
+  font-family: Brown-font; 
+  src: url("fonts/Brown-Regular.ttf");
+}
+
 .TITLE
 {
  width: 100%;
@@ -30,21 +35,21 @@ body
   
     p{
         font-size: 20px;
-        font-family:Helvetica;
+        font-family: Brown-font, sans-serif;
         margin-top: 0px;
         width: 200px;
     }
 
     h1 {
       font-size: 32px;
-      font-family: Helvetica;
+      font-family: Brown-font, sans-serif;
       color: black;
     }
 
     h2 {
       font-size: 88px;
-      font-family: Helvetica;
-      color: black;
+      font-family: Brown-font, sans-serif;
+      color: rgb(194, 136, 116);
     }
 
 

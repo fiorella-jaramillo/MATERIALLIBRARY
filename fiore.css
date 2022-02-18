@@ -3,17 +3,22 @@ body
   background-color: white;
 }
 
+
+@font-face { 
+  font-family: Brown-font; 
+  src: url("fonts/Brown-Regular.ttf");
+}
 h1 {
-  font-size: 88px;
-  font-family: Helvetica;
+  font-size: 108px;
+  font-family: Brown-font, sans-serif;
 }
  h2 {
   font-size: 18px;
-  font-family:Helvetica;
+  font-family:Brown-font, sans-serif;
 }
  p {
   font-size: 17px;
-  font-family:Helvetica;
+  font-family:Brown-font, sans-serif;
   text-align: justify;
 }
 
